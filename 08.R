@@ -1,0 +1,4 @@
+phones<-c(4,1,5,7,10,2,50,25,90,36)
+money<-c(12,5,13,19,31,7,153,72,275,110)
+plot(phones,money,main="Scatter Plot of Phones Sold vs Money",
+     xlab="Number of Phones Sold", ylab="Money")
